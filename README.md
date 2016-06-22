@@ -1,3 +1,8 @@
+Screenshots
+
+![ScreenShot](https://github.com/Maxwell20/Child-of-The-Appocolypse-game/blob/master/homeSreen.JPG)
+![ScreenShot](https://github.com/Maxwell20/Child-of-The-Appocolypse-game/blob/master/Gameplay.JPG)
+![ScreenShot](https://github.com/Maxwell20/Child-of-The-Appocolypse-game/blob/master/GameOver.JPG)
 Child of the appocolypse is a mobile game set in the zombie appocolypse and you are the last person on earth and happen to be a baby.
 Watch out the zombies are hungry!
 The goal of the game is to stay alive as long as possible while killing the greatest amount of zombies
